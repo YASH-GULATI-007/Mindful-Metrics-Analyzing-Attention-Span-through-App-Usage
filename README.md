@@ -116,3 +116,5 @@ Our goal?
 - In a world of constant digital noise, projects like this help us better understand our habits—and maybe even change them.
 
 - Whether you’re building digital wellness apps or just curious about your own attention span, this project shows how data can tell a deeper story.
+
+---
