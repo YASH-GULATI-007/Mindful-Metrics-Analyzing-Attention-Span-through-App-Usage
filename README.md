@@ -1,11 +1,14 @@
 # Read-Me
 
 🌱 Mindful Metrics: Understanding Attention Through App Usage
+
 Ever wondered how your phone habits affect your ability to stay focused?
 This project explores that question using data from different devices to uncover patterns between digital behavior and attention span.
 
 
+
 📌 What’s This Project About?
+
 We use machine learning to analyze how people interact with their phones—how long they spend on screens, how they respond to notifications, and whether they’re using productivity or entertainment apps.
 
 
