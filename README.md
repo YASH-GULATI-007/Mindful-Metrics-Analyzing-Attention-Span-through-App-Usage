@@ -73,46 +73,46 @@ Our goal?
 
 💡 What Did We Find?
 
-People who ignore or delay notifications tend to stay focused longer
+- People who ignore or delay notifications tend to stay focused longer
 
-Not using Productivity apps correlate positively with attention
+- Not using Productivity apps correlate positively with attention
 
-Entertainment-heavy usage (like social media or games) may shorten attention span
+- Entertainment-heavy usage (like social media or games) may shorten attention span
 
-These patterns were consistent even across multiple device types
+- These patterns were consistent even across multiple device types
 
 
 
 ⚙️ Tools Used
 
-Python (Pandas, NumPy, Scikit-learn)
+- Python (Pandas, NumPy, Scikit-learn)
 
-Data Viz: Matplotlib, Seaborn
+- Data Viz: Matplotlib, Seaborn
 
-Machine Learning: Classification & Regression
+- Machine Learning: Classification & Regression
 
-Storage: CSV files at each step to keep everything modular
+- Storage: CSV files at each step to keep everything modular
 
 
 
 📁 File Structure
 
-data_preparation.py → Prepares and saves cleaned data
+- data_preparation.py → Prepares and saves cleaned data
 
-data_visualization.py → Plots trends and insights
+- data_visualization.py → Plots trends and insights
 
-ml_models.py → Trains and evaluates different ML models
+- ml_models.py → Trains and evaluates different ML models
 
-processed_data.csv → Used between steps
+- processed_data.csv → Used between steps
 
-main_data.csv → Raw behavioral data
+- main_data.csv → Raw behavioral data
 
-final_output.csv → Can be generated post-modeling
+- final_output.csv → Can be generated post-modeling
 
 
 
 🚀 Why This Matters
 
-In a world of constant digital noise, projects like this help us better understand our habits—and maybe even change them.
+- In a world of constant digital noise, projects like this help us better understand our habits—and maybe even change them.
 
-Whether you’re building digital wellness apps or just curious about your own attention span, this project shows how data can tell a deeper story.
+- Whether you’re building digital wellness apps or just curious about your own attention span, this project shows how data can tell a deeper story.
