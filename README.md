@@ -2,21 +2,21 @@
 
 🌱 Mindful Metrics: Understanding Attention Through App Usage
 
-  Ever wondered how your phone habits affect your ability to stay focused?
-  This project explores that question using data from different devices to uncover patterns between digital behavior and attention span.
+  - Ever wondered how your phone habits affect your ability to stay focused?
+  - This project explores that question using data from different devices to uncover patterns between digital behavior and attention span.
 
 
 
 📌 What’s This Project About?
 
-  We use machine learning to analyze how people interact with their phones—how long they spend on screens, how they respond to notifications, and whether they’re
+  - We use machine learning to analyze how people interact with their phones—how long they spend on screens, how they respond to notifications, and whether they’re
   using productivity or entertainment apps.
 
 
 
 Our goal?
 
-  To see if these patterns can tell us something about how long someone can stay focused.
+- To see if these patterns can tell us something about how long someone can stay focused.
 
 
 
@@ -27,47 +27,47 @@ Our goal?
 
   🔧 Data Preparation
 
-    Cleaned and transformed raw usage data
+  - Cleaned and transformed raw usage data
 
-Encoded app categories, screen time, and notification behavior
+  - Encoded app categories, screen time, and notification behavior
 
-Saved as processed_data.csv
-
-
-📊 Data Visualization
-
-Created easy-to-understand graphs
-
-Helped us see trends like:
-
-Who uses more productivity apps?
-
-Does screen time relate to attention span?
-
-Which behavior patterns matter most?
+  - Saved as processed_data.csv
 
 
-🤖 Machine Learning
+  📊 Data Visualization
 
-Tried several models (Random Forest, Gradient Boosting, etc.)
+  - Created easy-to-understand graphs
 
-Predicted a person’s attention span category
+  - Helped us see trends like:
 
-Best models gave us an accuracy of around 55%
+  - Who uses more productivity apps?
+
+  - Does screen time relate to attention span?
+
+  - Which behavior patterns matter most?
+
+
+  🤖 Machine Learning
+
+  - Tried several models (Random Forest, Gradient Boosting, etc.)
+
+  - Predicted a person’s attention span category
+
+  - Best models gave us an accuracy of around 55%
 
 
 
 🔍 What Data Did We Use?
 
-The dataset includes real-world-inspired behaviors such as:
+  - The dataset includes real-world-inspired behaviors such as:
 
-Notification handling (ignore, interact, turn off, etc.)
+  - Notification handling (ignore, interact, turn off, etc.)
 
-App types (productivity vs social/gaming)
+  - App types (productivity vs social/gaming)
 
-Screen activity (work-related vs entertainment)
+  - Screen activity (work-related vs entertainment)
 
-Screen time (daily average across devices)
+  - Screen time (daily average across devices)
 
 
 
