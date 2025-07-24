@@ -1,24 +1,24 @@
 # Read-Me
-
-🌱 Mindful Metrics: Understanding Attention Through App Usage
+---
+## 🌱 Mindful Metrics: Understanding Attention Through App Usage
 
   - Ever wondered how your phone habits affect your ability to stay focused?
   - This project explores that question using data from different devices to uncover patterns between digital behavior and attention span.
 
-
+---
 
 📌 What’s This Project About?
 
   - We use machine learning to analyze how people interact with their phones—how long they spend on screens, how they respond to notifications, and whether they’re
   using productivity or entertainment apps.
 
-
+---
 
 Our goal?
 
 - To see if these patterns can tell us something about how long someone can stay focused.
 
-
+---
 
 🔄 How It Works
 
@@ -55,7 +55,7 @@ Our goal?
 
   - Best models gave us an accuracy of around 55%
 
-
+---
 
 🔍 What Data Did We Use?
 
@@ -69,7 +69,7 @@ Our goal?
 
   - Screen time (daily average across devices)
 
-
+---
 
 💡 What Did We Find?
 
@@ -81,7 +81,7 @@ Our goal?
 
 - These patterns were consistent even across multiple device types
 
-
+---
 
 ⚙️ Tools Used
 
@@ -93,7 +93,7 @@ Our goal?
 
 - Storage: CSV files at each step to keep everything modular
 
-
+---
 
 📁 File Structure
 
@@ -109,7 +109,7 @@ Our goal?
 
 - final_output.csv → Can be generated post-modeling
 
-
+---
 
 🚀 Why This Matters
 
